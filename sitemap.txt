@@ -1,2 +1,5 @@
-http://example.com/2022/09/29/hello-world/
+http://example.com/tags/index.html
+http://example.com/categories/index.html
+http://example.com/post/9dc526b4.html
+http://example.com/post/4a17b156.html
 http://example.com/
