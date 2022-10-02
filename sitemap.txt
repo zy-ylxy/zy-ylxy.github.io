@@ -1,6 +1,10 @@
 http://example.com/post/4a17b156.html
+http://example.com/messageboard/index.html
+http://example.com/timeline/index.html
+http://example.com/about/index.html
 http://example.com/link/index.html
 http://example.com/tags/index.html
 http://example.com/categories/index.html
 http://example.com/post/9dc526b4.html
 http://example.com/
+http://example.com/tags/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/
