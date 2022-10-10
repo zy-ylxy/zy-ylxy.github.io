@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-02T09:45:27.231Z</updated>
+  <updated>2022-10-10T03:33:22.193Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,15 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>css</title>
-    <link href="http://example.com/post/78cea6d8.html"/>
-    <id>http://example.com/post/78cea6d8.html</id>
-    <published>2022-10-02T09:45:12.000Z</published>
-    <updated>2022-10-02T09:45:27.231Z</updated>
+    <title>软测学习（一）</title>
+    <link href="http://example.com/post/894783f1.html"/>
+    <id>http://example.com/post/894783f1.html</id>
+    <published>2022-10-10T02:49:46.000Z</published>
+    <updated>2022-10-10T03:33:22.193Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h3 id="学习目标"><a href="#学习目标" class="headerlink" title="学习目标"></a>学习目标</h3><ol><li>能复述软件测试的定义</li><li>能说出7中测试分类的区别</li><li>能说出质量模型的重点5项</li><li>能说出测试流程的6个步骤</li><li>能说出测试模块8个要素</li></ol><h3 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h3><ul><li>认识软件及测试</li><li>测试主流技能</li><li>常见的测试分类</li><li>测试模型</li><li>软件测试流程</li><li>测试用例</li></ul><h4 id="认识软件及测试"><a href="#认识软件及测试" class="headerlink" title="认识软件及测试"></a>认识软件及测试</h4><ul><li><p>什么是软件——控制计算机硬件工作的工具</p><p><img src="D:\桌面\Blog\source_posts\software_test_01\1665372799529.png" alt="1665372799529"></p></li><li><p>软件的基本组成</p></li><li><p>软件产生过程</p></li><li><p>什么是软件测试</p></li><li><p>软件测试目的</p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;h3 id=&quot;学习目标&quot;&gt;&lt;a href=&quot;#学习目标&quot; class=&quot;headerlink&quot; title=&quot;学习目标&quot;&gt;&lt;/a&gt;学习目标&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;能复述软件测试的定义&lt;/li&gt;
+&lt;li&gt;能说出7中测试分类的区别&lt;/li&gt;
+&lt;li&gt;能说出质量模型的重</summary>
+      
     
     
     
+    <category term="笔记" scheme="http://example.com/categories/%E7%AC%94%E8%AE%B0/"/>
     
+    
+    <category term="软件测试" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
@@ -49,19 +64,6 @@
     
     
     <category term="js" scheme="http://example.com/tags/js/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>javaScript01</title>
-    <link href="http://example.com/post/9dc526b4.html"/>
-    <id>http://example.com/post/9dc526b4.html</id>
-    <published>2022-09-30T03:11:22.000Z</published>
-    <updated>2022-10-02T09:39:06.800Z</updated>
-    
-    
-    
-    
     
   </entry>
   

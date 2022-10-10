@@ -1,7 +1,6 @@
+http://example.com/post/894783f1.html
 http://example.com/post/4a17b156.html
 http://example.com/post/834695c1.html
-http://example.com/post/78cea6d8.html
-http://example.com/post/9dc526b4.html
 http://example.com/messageboard/index.html
 http://example.com/timeline/index.html
 http://example.com/about/index.html
@@ -11,3 +10,5 @@ http://example.com/categories/index.html
 http://example.com/
 http://example.com/tags/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/
 http://example.com/tags/js/
+http://example.com/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/
+http://example.com/categories/%E7%AC%94%E8%AE%B0/
