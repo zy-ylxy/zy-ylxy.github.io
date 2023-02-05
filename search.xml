@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>使用 nvm管理 node.js（windows版本）</title>
+      <link href="/post/3e3a5eb4.html"/>
+      <url>/post/3e3a5eb4.html</url>
+      
+        <content type="html"><![CDATA[<hr><h3 id="1、nvm-是什么"><a href="#1、nvm-是什么" class="headerlink" title="1、nvm 是什么"></a>1、nvm 是什么</h3><blockquote><p>nvm(Node.js version manager) 是一个命令行应用，可以协助您快速地 更新、安装、使用、卸载 本机的全局 node.js 版本。</p></blockquote><p>有时候，我们可能同时在进行多个项目开发，而多个项目所使用的node版本又是不一样的，或者是要用最新的node版本进行试验和学习。这种情况下，对于维护多个版本的node将会是一件非常麻烦的事情，而nvm就是为解决这个问题而产生的，他可以在同一台电脑上进行多个node版本之间的切换，而这正是nvm的价值所在。</p><h3 id="2、安装"><a href="#2、安装" class="headerlink" title="2、安装"></a>2、安装</h3><ul><li>nvm-noinstall.zip： 这个是绿色免安装版本，但是使用之前需要配置</li><li>nvm-setup.zip：这是一个安装包，下载之后点击安装，无需配置就可以使用，方便。</li><li>Source code(zip)：zip压缩的源码</li><li>Sourc code(tar.gz)：tar.gz的源码，一般用于Linux系统、</li></ul><p><strong>配置</strong></p><p> 在nvm安装路径下setting.txt文件中配置如下信息：</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">root: nvm安装路径</span><br><span class="line">path: node安装路径</span><br><span class="line">// 添加以下两句，目的是将npm镜像改为淘宝的镜像，可以提高下载速度</span><br><span class="line">node_mirror:https://npm.taobao.org/mirrors/node/</span><br><span class="line">npm_mirror: https://npm.taobao.org/mirrors/npm/</span><br></pre></td></tr></table></figure><h3 id="3、常用命令"><a href="#3、常用命令" class="headerlink" title="3、常用命令"></a>3、常用命令</h3><table><thead><tr><th>命令</th><th>说明</th></tr></thead><tbody><tr><td><strong>nvm install [arch]</strong></td><td>安装制定版本的node 并且可以指定平台 version 版本号 arch 平台</td></tr><tr><td>nvm uninstall</td><td>卸载制定的版本</td></tr><tr><td><strong>nvm use [version] [arch]</strong></td><td>切换制定的node版本和位数</td></tr><tr><td><strong>nvm list</strong></td><td>查看已经安装的版本</td></tr><tr><td><strong>nvm list available</strong></td><td>查看网络可以安装的版本</td></tr><tr><td>nvm version</td><td>查看当前的版本</td></tr><tr><td>nvm arch</td><td>查看当前系统的位数和当前nodejs的位数</td></tr><tr><td>nvm on</td><td>打开nodejs版本控制</td></tr><tr><td>nvm off</td><td>关闭nodejs版本控制</td></tr><tr><td>nvm proxy [url]</td><td>查看和设置代理</td></tr><tr><td>nvm node_mirror [url]</td><td>设置或者查看setting.txt中的node_mirror，如果不设置的默认是 <a href="https://nodejs.org/dist/">https://nodejs.org/dist/</a></td></tr><tr><td>nvm npm_mirror [url]</td><td>设置或者查看setting.txt中的npm_mirror,如果不设置的话默认的是：<a href="https://github.com/npm/npm/archive/">https://github.com/npm/npm/archive/</a>.</td></tr><tr><td>nvm root [path]</td><td>设置和查看root路径</td></tr></tbody></table><h3 id="踩雷点"><a href="#踩雷点" class="headerlink" title="踩雷点"></a>踩雷点</h3><ol><li>安装 nvm 时候的路径<strong>不要有空格</strong>，不然安装之后识别不了</li><li>安装 node 时候，会出现 npm 不生效，去官网下载对应版本的 npm 就行。</li></ol><p><a href="https://nodejs.org/zh-cn/download/releases/">npm对应版本对照</a><br><a href="https://registry.npmmirror.com/binary.html?path=npm/v8.3.0/">CNPM Binaries Mirror (npmmirror.com)</a></p><ul><li>将下载的 npm 文件，更名为 npm</li><li>复制到 nodejs 对应下载版本的路径下的 node_modeules 目录下</li><li>将 npm 文件中 bin 目录下的 npm文件和 npm.cmd 两个文件复制到与 node_modeules 同级目录下</li></ul><p><img src="https://jjjj1990.oss-cn-hangzhou.aliyuncs.com/img/image-20230206003858762.png" alt="image-20230206003858762"></p><p><img src="https://jjjj1990.oss-cn-hangzhou.aliyuncs.com/img/image-20230206003928012.png" alt="image-20230206003928012"></p><p><img src="https://jjjj1990.oss-cn-hangzhou.aliyuncs.com/img/image-20230206003945689.png" alt="image-20230206003945689"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> npm </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>git使用教程</title>
       <link href="/post/de286b5f.html"/>
       <url>/post/de286b5f.html</url>

@@ -1,3 +1,4 @@
+http://example.com/post/3e3a5eb4.html
 http://example.com/post/de286b5f.html
 http://example.com/post/48fa52e7.html
 http://example.com/post/857d9cf3.html
@@ -31,4 +32,5 @@ http://example.com/tags/%E5%90%8C%E6%BA%90%E7%AD%96%E7%95%A5/
 http://example.com/tags/js/
 http://example.com/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/
 http://example.com/tags/%E5%AF%BC%E8%88%AA/
+http://example.com/tags/npm/
 http://example.com/categories/%E7%AC%94%E8%AE%B0/
